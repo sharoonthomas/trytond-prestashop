@@ -15,7 +15,7 @@ Website
 
 Visit the `Openlabs website <http://www.openlabs.co.in>`_ for latest news
 and downloads. You can also follow us on Twitter 
-`@openlabsindia <http://twitter.com/openlabsindia>` to receive updates on
+`@openlabsindia <http://twitter.com/openlabsindia>`_ to receive updates on
 releases.                                                                                                                                                                                                                
 Support
 -------
